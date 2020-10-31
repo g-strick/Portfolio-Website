@@ -1,0 +1,28 @@
+- name: Outdoor Adventure Planner
+  url: https://github.com/bartcusick/bootCamp_Project_1-_Outdoor-Adventure-Planner
+  description: Put in your city and state and Outdoor Adventure Planner will find you a list of bike trails within a 25 miles. Utilizes multiple APIs in order to get local trails and weather for the user.
+  status: live
+  tags:
+    - JavaScript
+    - html
+  icon: birdBike2.svg
+
+- name: Password Generator
+  url: https://g-strick.github.io/Password-Generator/
+  description: Passcode generator that can provide randomly generated passwords per the user's specifications.
+  status: live
+  tags:
+    - JavaScript
+    - HTML
+  icon: website
+  image: github
+
+- name: Example 3
+  url: https://g-strick.github.io/Weather-Dashboard/
+  description: Weather dashboard that displays a city's forecast.
+  status: live
+  tags:
+    - JavaScript
+    - HTML
+  icon: website
+  image: github

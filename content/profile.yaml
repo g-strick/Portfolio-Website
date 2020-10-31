@@ -1,0 +1,27 @@
+- profile:
+  initials: GS
+  name: Grayson Stricker
+  email: graysonstricker@gmail.com
+  profession: Web Developer
+  image: images/profile.jpg
+  location: Charlotte, NC
+  relocation: true
+  company: UNC Full Stack Bootcamp Student
+  for_hire: true
+  focus: Learning React
+  focus_url: https://reactjs.org/
+  about: |
+    I'm a web developer currently enrolled in the UNC full stack boot camp.
+  skills:
+    - JavaScript
+    - HTML / CSS
+    - Jquery
+  tools:
+    - React
+    - VSCode
+    - Gatsby
+  budget:
+    currency: $
+    min: .5
+    max: 10
+    default: 3
