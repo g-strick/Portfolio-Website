@@ -4,7 +4,7 @@
   status: live
   tags:
     - JavaScript
-    - html
+    - Express
   icon: birdBike2.svg
 
 - name: Password Generator
@@ -17,12 +17,16 @@
   icon: website
   image: github
 
-- name: Example 3
-  url: https://g-strick.github.io/Weather-Dashboard/
-  description: Weather dashboard that displays a city's forecast.
+- name: Lookin Ruff
+  url: https://github.com/Meddle74/Lookin-Ruff
+  description: A one stop shop pet grooming website. Anyone can login, sign up, book appointments and receive an email notification when you do so. If you're a stylist at Looking Ruff, create an admin account where you can add and remove services you want to provide.
   status: live
   tags:
     - JavaScript
-    - HTML
+    - Sequelize
+    - Express.js
+    - Node.js
+    - jQuery
+    - Nodemailer
   icon: website
   image: github
