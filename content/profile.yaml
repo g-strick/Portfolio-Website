@@ -14,8 +14,8 @@
     I'm a web developer currently enrolled in the UNC full stack boot camp.
   skills:
     - JavaScript
-    - HTML / CSS
-    - Jquery
+    - Node.js
+    - Express.js
   tools:
     - React
     - VSCode

@@ -1,1 +1,11 @@
-{"data":{"site":{"siteMetadata":{"description":"Personal page of Grayson Stricker","locale":"en","title":"Grayson Stricker"}}}}
+{
+  "data": {
+    "site": {
+      "siteMetadata": {
+        "description": "Personal page of Grayson Stricker",
+        "locale": "en",
+        "title": "Grayson Stricker"
+      }
+    }
+  }
+}
